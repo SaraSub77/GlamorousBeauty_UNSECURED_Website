@@ -4,7 +4,7 @@ This website is prepared for Web Technology and Security Subject.
 Note that it is the unsecured version, where you can apply multiple XSS Attacks on it. You can find the Secured version from the below link: 
 
 
-###Some examples of the possible XSS Attacks:
+### Some examples of the possible XSS Attacks:
 
 ![image](https://github.com/SaraSub77/GlamorousBeauty_UNSECURED_Website/assets/126624918/378f7527-2ba6-4e5c-ada5-ee7aeb57c300)
 
